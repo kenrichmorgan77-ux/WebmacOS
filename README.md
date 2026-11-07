@@ -4,3 +4,4 @@ To publish an app:
 3.Boot your Webmac ISO.
 4.Open App Store → Publish a Linux app.
 5.Enter your developer name and description, then upload the .deb.
+Please make my OS better.
